@@ -23,7 +23,7 @@ const Navbar = () => {
             <ul className='flex flex-row gap-4 w-full h-full ml-10'>
 
                 {
-                    arr.map((s)=><button className='hover:underline hover:text-white font-capitalize font-serif'>{s}</button>)
+                    arr.map((s)=><button className='hover:underline text-xl text-white font-capitalize font-serif'>{s}</button>)
                 }
             </ul>
             <button className='w-16 h-12 ' > 

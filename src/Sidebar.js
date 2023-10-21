@@ -9,15 +9,15 @@ const Sidebar = () => {
         </h1>
         <ul className='gap-2 flex flex-col uppercase text-white px-4 '>
 
-            <li className='border-b-2 mt-2'>
+            <li className='border-b-2 mt-2  border-gray-600'>
                 HOME
 
             </li>
-            <li  className='border-b-2 mt-2'>
+            <li  className='border-b-2 mt-2  border-gray-600'>
                 HOME
                 
             </li>
-            <li className='border-b-2 mt-2'>
+            <li className='border-b-2 mt-2  border-gray-600'>
                 HOME
                 
             </li>
