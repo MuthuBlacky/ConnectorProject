@@ -14,7 +14,7 @@ const Navbar = () => {
 
       {/* <Mycontext.Provider value={{toggle,settoggle}} > */}
       <div className=''>
-        <nav className=' gap-4 flex h-16 justify-around rounded-lg mt-3 ml-52 mr-24 mr  bg-gradient-to-r from-teal-900 to-teal-900 p-2' >
+        <nav className=' gap-4 flex h-16 justify-around rounded-lg mt-3 ml-52 mr-24 mr  bg-inherit bg-[url(https://images.unsplash.com/photo-1497250681960-ef046c08a56e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8R1JFRU58ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60)]' >
             <div className='flex items-center'>
             <GiWaterRecycling className='w-12 h-10 animate-spin'/>
             <h2 className=' text-2xl font-bold bg-gradient-to-r from-lime-600 to-green-500 bg-clip-text text-transparent'>RECYTECH</h2>
